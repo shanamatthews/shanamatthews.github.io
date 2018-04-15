@@ -24,7 +24,6 @@ description: she writes things
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Other Home: "index-other"
   Resources:
     - GitHub: "https://github.com/shanamatthews" 
 
