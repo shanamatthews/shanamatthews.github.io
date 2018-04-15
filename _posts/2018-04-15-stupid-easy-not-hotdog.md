@@ -9,6 +9,7 @@ tags: [test]
 
 David Smith - aka [@revodavid](https://twitter.com/revodavid) recently posted on Twitter about his recreation of the ["Not Hotdog"](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3) app 🌭- and I can't lie I was pretty jealous.
 
+{: .box-note}
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I recreated Jian Yan&#39;s &quot;Not Hotdog&quot; application using R and the <a href="https://twitter.com/Azure?ref_src=twsrc%5Etfw">@Azure</a> Custom Vision API: <a href="https://t.co/SO3jjxQ35D">https://t.co/SO3jjxQ35D</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; David Smith (@revodavid) <a href="https://twitter.com/revodavid/status/981639949362647040?ref_src=twsrc%5Etfw">April 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
