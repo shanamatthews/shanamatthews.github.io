@@ -2,7 +2,7 @@
 layout: post
 title: Not Hotdog
 subtitle: the simplest version yet
-gh-repo: daattali/demos
+gh-repo: shanamatthews/demos
 gh-badge: [star, fork, follow]
 tags: [demo,cog-services,azure]
 ---
