@@ -10,10 +10,7 @@ I'm a Program Manager in Student Developer Evangelism, focused on Cloud ☁️ +
 I'm pretty into Python 🐍, but usually I've gotten paid to be a C++ girl 👩‍💻
 
 ### Get in touch!
-[GitHub](https://github.com/shanamatthews)
-
-[Twitter](https://twitter.com/shanamatthews)
-
-[Email](mailto:shana.matthews@microsoft.com)
-
-[LinkedIn](https://www.linkedin.com/in/shana-matthews/)
+- [GitHub](https://github.com/shanamatthews)
+- [Twitter](https://twitter.com/shanamatthews)
+- [Email](mailto:shana.matthews@microsoft.com)
+- [LinkedIn](https://www.linkedin.com/in/shana-matthews/)
