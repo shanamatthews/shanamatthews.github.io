@@ -4,13 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Shana Matthews. I'm a Program Manager in Student Developer Evangelism, focused on Cloud ☁️ + AI 🤖 at Microsoft.
+I'm pretty into Python 🐍, but usually I've gotten paid to be a C++ girl 👩‍💻
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Get in touch!
+[GitHub](https://github.com/shanamatthews)
+[Twitter](https://twitter.com/shanamatthews)
+[Email](mailto:shana.matthews@microsoft.com)
+[LinkedIn](https://www.linkedin.com/in/shana-matthews/)
