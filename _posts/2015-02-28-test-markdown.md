@@ -1,31 +1,24 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Not Hotdog
+subtitle: the simplest version yet
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+David Smith - aka [@revodavid](https://twitter.com/revodavid) recently posted on Twitter about his recreation of the ["Not Hotdog"] - https://twitter.com/revodavid/status/981639949362647040. (https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3) app 🌭, and I can't lie I was pretty jealous. 
 
-**Here is some bold text**
+I've been wanting to make my own recreation of this app for a long time, especially since I started going through [fast.ai](http://www.fast.ai/)'s updated [Deep Learning course](http://course.fast.ai/).
+Naturally, my first thought was to create this myself, using the fastai library. And then I realized it was 11pm and I needed to be up at 6am for a flight the next day... 
 
-## Here is a secondary heading
+Fortunately for me, Brian Peek was one step ahead of me. He made a [nice writeup](https://docs.microsoft.com/en-us/sandbox/demos/nothotdog) of how to use the [Azure Computer Vision API](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/) to create and deploy an Azure Function to determine if a photo was of a notdog (or not).
 
-Here's a useless table:
+Brian's NotHotdog website: https://nothotdogweb.azurewebsites.net/
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+It seemed cool, and I wanted to try it out... but I don't know about you, but I get even lazier than usual 
 
 
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Here's a code chunk:
 
