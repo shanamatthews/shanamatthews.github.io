@@ -14,3 +14,4 @@ I'm pretty into Python 🐍, but usually I've gotten paid to be a C++ girl 👩�
 - [Twitter](https://twitter.com/shanamatthews)
 - [Email](mailto:shana.matthews@microsoft.com)
 - [LinkedIn](https://www.linkedin.com/in/shana-matthews/)
+- [Book a chat](https://calendly.com/shanamatthews/chat)
